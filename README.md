@@ -66,10 +66,20 @@ Maven
 
 📁 Structure du Projet
 /eureka-server
+<p align="center">
+  <img src="https://github.com/YASSMINEOUQUELLI12/TP19/blob/main/eureka-server/eureka/tp19.PNG" width="500">
+</p>
 
 /service-client
-/service-voiture
+<p align="center">
+  <img src="https://github.com/YASSMINEOUQUELLI12/TP19/blob/main/service-client/eureka/TP19%20client1.PNG" width="500">
+  <img src="https://github.com/YASSMINEOUQUELLI12/TP19/blob/main/service-client/eureka/TP19%20client.PNG" width="500">
+</p>
 /gateway
+<p align="center">
+  <img src="https://github.com/YASSMINEOUQUELLI12/TP19/blob/main/GateWay/TP19CLIE.PNG" width="500">
+</p>
+
 
 
 Chaque module est indépendant et contient son propre application.properties ou application.yml.
